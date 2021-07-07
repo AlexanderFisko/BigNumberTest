@@ -1,0 +1,10 @@
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+.vs/
+.idea
+*.suo
+*.user
+*.pyc
+_ReSharper.*

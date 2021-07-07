@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <ProjectGuid>{5671A0C0-BEAD-4BE3-9FA9-29438A781EA5}</ProjectGuid>
+    <RootNamespace>Interview</RootNamespace>
+    <AssemblyName>Interview</AssemblyName>
+    <TargetFramework>net48</TargetFramework>
+    <AssemblyTitle>BigNumber</AssemblyTitle>
+    <Product>BigNumber</Product>
+    <OutputPath>bin\$(Configuration)\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="NUnit" Version="3.10.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.10.0" />
+  </ItemGroup>
+</Project>
